@@ -7,6 +7,6 @@
 # 使い方
 1. git clone https://github.com/makotovnjp/HotPeperScraper
 2. cd HotPeperScraper
-3. scrapy crawl vn_restaurant -o data.csv
+3. scrapy crawl restaurants -o data.csv
 
 data.csvより、ベトナム料理の店情報を確認できる
